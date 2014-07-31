@@ -1,4 +1,4 @@
-package my.test;
+package packagename;
 
 public class HelloWorld {
 
